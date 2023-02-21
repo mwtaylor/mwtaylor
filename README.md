@@ -1,8 +1,8 @@
 Hi, I’m @mwtaylor
 
-I'm interested in electronics projects built with Arduino or Raspberry Pi.
+My current interest is investigating how to host and manage personal websites with minimal maintenance. I have started with a site to post some of my recipes that I like to cook.
 
-I'm currently learning how to do continuous delivery of Lambda in AWS using Codepipeline.
+I'm currently learning more about internationalization and accessibility features of commonly used languages.
 
 <!---
 mwtaylor/mwtaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
