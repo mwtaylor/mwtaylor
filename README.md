@@ -1,8 +1,8 @@
 Hi, I’m @mwtaylor
 
-My current interest is investigating how to host and manage personal websites with minimal maintenance. I have started with a site to post some of my recipes that I like to cook.
+I'm currently learning about game development using Godot. Also interested in practicing creating pixel art. I've never considered myself much of an artist so I'm excited to take some time to develop a new skill.
 
-I'm currently learning more about internationalization and accessibility features of commonly used languages.
+Outside of software development I also am refining my skills as a cook by trying to make new recipes I've never made before.
 
 <!---
 mwtaylor/mwtaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
